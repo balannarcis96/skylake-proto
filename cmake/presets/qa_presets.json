@@ -1,0 +1,18 @@
+{
+    "version": "1",
+    "priority": "0",
+    "presets": [
+        {
+            "name": "default",
+            "config": [
+                {
+                    "target_name": "libskl-proto",
+                    "constexpr_namespace": "skl",
+                    "default_output": "public",
+                    "constexprs": {},
+                    "defines": {}
+                }
+            ]
+        }
+    ]
+}
